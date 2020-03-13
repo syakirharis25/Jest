@@ -4,8 +4,9 @@ My works related to Jest JavaScript Testing Framework maintained by Facebook, In
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Svelte developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -15,6 +16,14 @@ Jest is a JavaScript Testing Framework maintained by Facebook, Inc. with a focus
 <a name="references"></a>
 ## 2. Official references websites. 
 Jest official website : https://jestjs.io <br />
+
+<a name="developers"></a>
+## 3. Jest developers.
+Aaron Abramov : https://github.com/aaronabramov, https://twitter.com/aarondjents <br />
+Simen Bekkhus : https://github.com/SimenB <br />
+Matt Philips : https://github.com/SkySrfr <br />
+Michele Bertoli : https://github.com/MicheleBertoli, https://twitter.com/MicheleBertoli <br />
+Jordan Eldredge : https://github.com/captbaritone, https://twitter.com/captbaritone <br /> 
  
 <a name="github"></a>
 ## 4. GitHub notes.
