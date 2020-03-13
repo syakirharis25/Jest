@@ -4,7 +4,7 @@ My works related to Jest JavaScript Testing Framework maintained by Facebook, In
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Svelte developers.](#developers)
+3. [Jest developers.](#developers)
 4. [GitHub notes.](#github)
 5. [GitHub repository calculation.](#calculation)
 
