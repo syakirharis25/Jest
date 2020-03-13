@@ -17,6 +17,9 @@ Jest is a JavaScript Testing Framework maintained by Facebook, Inc. with a focus
 ## 2. Official references websites. 
 Jest official website : https://jestjs.io <br />
 
+**_Jest related projects_** <br />
+ESLint : https://eslint.org <br />
+
 <a name="developers"></a>
 ## 3. Jest developers.
 Aaron Abramov : https://github.com/aaronabramov, https://twitter.com/aarondjents <br />
