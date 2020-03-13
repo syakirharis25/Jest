@@ -23,7 +23,8 @@ Aaron Abramov : https://github.com/aaronabramov, https://twitter.com/aarondjents
 Simen Bekkhus : https://github.com/SimenB <br />
 Matt Philips : https://github.com/SkySrfr <br />
 Michele Bertoli : https://github.com/MicheleBertoli, https://twitter.com/MicheleBertoli <br />
-Jordan Eldredge : https://github.com/captbaritone, https://twitter.com/captbaritone <br /> 
+Jordan Eldredge : https://github.com/captbaritone, https://twitter.com/captbaritone <br />
+Christoph Nakazawa : https://github.com/cpojer, https://twitter.com/cpojer <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
